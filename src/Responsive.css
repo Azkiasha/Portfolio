@@ -1,0 +1,26 @@
+/* File responsive.css */
+
+/* Gaya untuk layar yang lebih kecil (maksimum 1024px) */
+
+@media screen and (max-width: 1024px) {
+  /* Ubah tampilan sidebar dan konten utama untuk layar kecil */
+  .container {
+    margin-left: 0;
+  }
+  .nav {
+    width: 100%;
+    /* Atur lebar sidebar menjadi 100% agar menempati seluruh lebar layar */
+  }
+}
+
+/* Gaya untuk layar yang lebih besar (minimum 1025px) */
+
+@media screen and (min-width: 1025px) {
+  .nav {
+    width: 110px;
+    /* Atur lebar sidebar pada layar besar */
+  }
+  .container {
+    margin-left: 110px;
+  }
+}
