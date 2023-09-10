@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c1f0a5f5.css",
-    "main.js": "/portfolio/static/js/main.dedb56a3.js",
+    "main.css": "/portfolio/static/css/main.ddb5fa9c.css",
+    "main.js": "/portfolio/static/js/main.0b7c7e9d.js",
     "static/js/787.73ba5c04.chunk.js": "/portfolio/static/js/787.73ba5c04.chunk.js",
     "static/media/blog-2.svg": "/portfolio/static/media/blog-2.a17fe5c4c05ccd6e019484f9124acecf.svg",
     "static/media/blog-1.svg": "/portfolio/static/media/blog-1.7f5fb5b0228f104a981e9809017a1cb2.svg",
@@ -24,12 +24,12 @@
     "static/media/dots-bg.svg": "/portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/portfolio/index.html",
     "static/media/Logobaru.svg": "/portfolio/static/media/Logobaru.24c47b5b38efed437d01894ddb551e2b.svg",
-    "main.c1f0a5f5.css.map": "/portfolio/static/css/main.c1f0a5f5.css.map",
-    "main.dedb56a3.js.map": "/portfolio/static/js/main.dedb56a3.js.map",
+    "main.ddb5fa9c.css.map": "/portfolio/static/css/main.ddb5fa9c.css.map",
+    "main.0b7c7e9d.js.map": "/portfolio/static/js/main.0b7c7e9d.js.map",
     "787.73ba5c04.chunk.js.map": "/portfolio/static/js/787.73ba5c04.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f0a5f5.css",
-    "static/js/main.dedb56a3.js"
+    "static/css/main.ddb5fa9c.css",
+    "static/js/main.0b7c7e9d.js"
   ]
 }
